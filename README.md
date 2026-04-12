@@ -1,7 +1,7 @@
 
 # OpenVLA Prompt-Robustness Project
 
-This repository packages a completed student research project on **prompt-induced action drift in OpenVLA-7B**.
+This repository packages a completed research project on **prompt-induced action drift in OpenVLA-7B**.
 
 ## One-sentence summary
 This project asks a simple safety question: **if the picture stays the same but the wording changes, does the robot action change too?**
@@ -32,10 +32,6 @@ Across both experiments:
 - `docs/`: long reports and paper drafts
 - `logs/`: run logs
 
-## Quick start
-1. Read `docs/OpenVLA_Professor_Final_Report.docx` for the full story.
-2. Read `docs/OpenVLA_Defense_Master_Handbook.docx` for defense prep.
-3. Read `docs/OpenVLA_CoRL_Final_Draft.docx` for the paper draft.
 
 ## Main files for reproducibility
 - `code/run_metadata_experiment.py`
