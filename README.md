@@ -34,15 +34,16 @@ Across both experiments:
 - `metadata/`: manual and auto50 metadata files
 - `results/`: raw result CSVs and logs
 - `analysis/`: summary tables, bootstrap confidence intervals, family breakdown, failure cases
-- `docs/`: project report, defense handbook, and paper draft material
+- `docs/`: project explanation,master report, and paper draft material
 - `pilot_experiments/`: Experiments ran before moving onto machine in colab and smoke tests
 - `env`: env files from plateform
 - `figures`: final result depicted in visual forms
 
 ## Quick start
-1. Read `docs/OpenVLA_Professor_Final_Report.docx` for the full story.
-2. Read `docs/OpenVLA_Defense_Master_Handbook.docx` for defense prep.
-3. Read `docs/OpenVLA_CoRL_Final_Draft.docx` for the paper draft.
+1. Read `docs/Master_Report_for_Professor.pdf` or the full story.(if you are in VLA field)
+2. Read `docs/Research_Explanation.pdf` for my philosophy regarding this research.
+3. Read `docs/OpenVLA_CoRL_Final_Draft.pdf` for the paper draft.
+4. Read `docs/OpenVLA_Practice_Research_Paper.pdf` for professional folks.(this is my practice research paper which consist everything)
 
 ## Important note on the dataset
 This repo does **not** include the full 30 GB scripted BridgeData archive. Instead, it includes the metadata and result artifacts needed to understand and reproduce the reported study structure. Users should download the raw dataset separately from the official source when needed.
