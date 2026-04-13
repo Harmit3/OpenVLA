@@ -1,0 +1,17 @@
+FILE_LIST.txt
+GPU_INFO.txt
+images
+PROJECT_PATH.txt
+prompt_compare_neutral_results.csv
+prompt_compare_results.csv
+PYTHON_VERSION.txt
+requirements-working.txt
+run_prompt_compare_batch_neutral.py
+run_prompt_compare_batch.py
+test.jpg
+test_openvla_PATCHED_WORKING.py
+test_openvla_prompt_compare.py
+test_openvla.py
+test_openvla_real_image.py
+test_openvla_real_image_WORKING.py
+test_openvla_working.py

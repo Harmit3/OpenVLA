@@ -1,0 +1,251 @@
+trajectory_id,run_family,run_stamp,traj_group,traj_name,initial_image,final_image,num_frames,lang_original,prompt_normal,prompt_paraphrased,prompt_contradictory,prompt_neutral
+1,2023-01-09_pnp_rigid_objects,2023-01-10_16-11-27,traj_group0,traj38,traj001_initial.jpg,traj001_final.jpg,50,pick up the rigid object,"In: What action should the robot take to pick up the rigid object?
+Out:","In: What should the robot do to pick up the rigid object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the rigid object?
+Out:","In: What action should the robot take?
+Out:"
+2,pnp_utensils_11-18,2022-11-18_20-05-03,traj_group0,traj36,traj002_initial.jpg,traj002_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+3,pnp_utensils_12-07_rigid_objects,2022-12-08_14-21-43,traj_group0,traj10,traj003_initial.jpg,traj003_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+4,2023-05-25_bin_pnp,2023-05-26_11-58-22,traj_group0,traj121,traj004_initial.jpg,traj004_final.jpg,51,pick up the object and place it in the bin,"In: What action should the robot take to pick up the object and place it in the bin?
+Out:","In: What should the robot do to pick up the object and place it in the bin?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object and place it in the bin?
+Out:","In: What action should the robot take?
+Out:"
+5,2022-12-09_pnp_soft_toys,2022-12-09_15-54-53,traj_group0,traj14,traj005_initial.jpg,traj005_final.jpg,50,pick up the soft toy,"In: What action should the robot take to pick up the soft toy?
+Out:","In: What should the robot do to pick up the soft toy?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the soft toy?
+Out:","In: What action should the robot take?
+Out:"
+6,2023-01-04_pnp_objects,2023-01-04_12-52-41,traj_group0,traj21,traj006_initial.jpg,traj006_final.jpg,50,pick up the object,"In: What action should the robot take to pick up the object?
+Out:","In: What should the robot do to pick up the object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object?
+Out:","In: What action should the robot take?
+Out:"
+7,2023-01-11_pnp_objects,2023-01-22_14-50-42,traj_group0,traj42,traj007_initial.jpg,traj007_final.jpg,50,pick up the object,"In: What action should the robot take to pick up the object?
+Out:","In: What should the robot do to pick up the object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object?
+Out:","In: What action should the robot take?
+Out:"
+8,pnp_utensils_12-07_rigid_objects,2022-12-08_14-43-29,traj_group0,traj11,traj008_initial.jpg,traj008_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+9,2022-12-15_pnp_many_objects_in_env,2022-12-15_14-48-54,traj_group0,traj138,traj009_initial.jpg,traj009_final.jpg,50,pick up the target object among many objects,"In: What action should the robot take to pick up the target object among many objects?
+Out:","In: What should the robot do to pick up the target object among many objects?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the target object among many objects?
+Out:","In: What action should the robot take?
+Out:"
+10,2022-12-09_pnp_soft_toys,2022-12-09_16-31-56,traj_group0,traj45,traj010_initial.jpg,traj010_final.jpg,50,pick up the soft toy,"In: What action should the robot take to pick up the soft toy?
+Out:","In: What should the robot do to pick up the soft toy?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the soft toy?
+Out:","In: What action should the robot take?
+Out:"
+11,sweep_12-03,2022-12-05_13-20-15,traj_group0,traj222,traj011_initial.jpg,traj011_final.jpg,35,sweep the object across the surface,"In: What action should the robot take to sweep the object across the surface?
+Out:","In: What should the robot do to sweep the object across the surface?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to sweep the object across the surface?
+Out:","In: What action should the robot take?
+Out:"
+12,pnp_utensils_11-29,2022-11-29_15-24-23,traj_group0,traj220,traj012_initial.jpg,traj012_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+13,2023-05-25_bin_pnp,2023-05-26_11-58-22,traj_group0,traj130,traj013_initial.jpg,traj013_final.jpg,51,pick up the object and place it in the bin,"In: What action should the robot take to pick up the object and place it in the bin?
+Out:","In: What should the robot do to pick up the object and place it in the bin?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object and place it in the bin?
+Out:","In: What action should the robot take?
+Out:"
+14,2022-12-09_pnp_soft_toys,2022-12-09_15-16-08,traj_group0,traj65,traj014_initial.jpg,traj014_final.jpg,11,pick up the soft toy,"In: What action should the robot take to pick up the soft toy?
+Out:","In: What should the robot do to pick up the soft toy?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the soft toy?
+Out:","In: What action should the robot take?
+Out:"
+15,2022-12-11_pnp_soft_toys,2022-12-11_15-54-32,traj_group0,traj54,traj015_initial.jpg,traj015_final.jpg,50,pick up the soft toy,"In: What action should the robot take to pick up the soft toy?
+Out:","In: What should the robot do to pick up the soft toy?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the soft toy?
+Out:","In: What action should the robot take?
+Out:"
+16,2022-12-08_pnp_soft_toys,2022-12-08_19-41-31,traj_group0,traj52,traj016_initial.jpg,traj016_final.jpg,50,pick up the soft toy,"In: What action should the robot take to pick up the soft toy?
+Out:","In: What should the robot do to pick up the soft toy?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the soft toy?
+Out:","In: What action should the robot take?
+Out:"
+17,2022-12-09_pnp_soft_toys,2022-12-09_16-31-56,traj_group0,traj107,traj017_initial.jpg,traj017_final.jpg,50,pick up the soft toy,"In: What action should the robot take to pick up the soft toy?
+Out:","In: What should the robot do to pick up the soft toy?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the soft toy?
+Out:","In: What action should the robot take?
+Out:"
+18,pnp_utensils_12-01,2022-12-01_17-19-37,traj_group0,traj63,traj018_initial.jpg,traj018_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+19,2022-12-09_pnp_soft_toys,2022-12-09_15-16-08,traj_group0,traj116,traj019_initial.jpg,traj019_final.jpg,50,pick up the soft toy,"In: What action should the robot take to pick up the soft toy?
+Out:","In: What should the robot do to pick up the soft toy?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the soft toy?
+Out:","In: What action should the robot take?
+Out:"
+20,2023-01-04_pnp_objects,2023-01-04_17-51-10,traj_group0,traj230,traj020_initial.jpg,traj020_final.jpg,50,pick up the object,"In: What action should the robot take to pick up the object?
+Out:","In: What should the robot do to pick up the object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object?
+Out:","In: What action should the robot take?
+Out:"
+21,2022-12-11_pnp_soft_toys,2022-12-11_16-23-59,traj_group0,traj24,traj021_initial.jpg,traj021_final.jpg,50,pick up the soft toy,"In: What action should the robot take to pick up the soft toy?
+Out:","In: What should the robot do to pick up the soft toy?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the soft toy?
+Out:","In: What action should the robot take?
+Out:"
+22,2022-12-09_pnp_soft_toys,2022-12-09_16-31-56,traj_group0,traj143,traj022_initial.jpg,traj022_final.jpg,21,pick up the soft toy,"In: What action should the robot take to pick up the soft toy?
+Out:","In: What should the robot do to pick up the soft toy?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the soft toy?
+Out:","In: What action should the robot take?
+Out:"
+23,pnp_utensils_12-06_gripper_start_closed,2022-12-06_21-24-47,traj_group0,traj145,traj023_initial.jpg,traj023_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+24,2023-01-11_pnp_objects,2023-01-11_13-38-11,traj_group0,traj57,traj024_initial.jpg,traj024_final.jpg,50,pick up the object,"In: What action should the robot take to pick up the object?
+Out:","In: What should the robot do to pick up the object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object?
+Out:","In: What action should the robot take?
+Out:"
+25,pnp_utensils_12-01,2022-12-01_15-40-03,traj_group0,traj176,traj025_initial.jpg,traj025_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+26,2022-12-15_pnp_many_objects_in_env,2022-12-15_14-48-54,traj_group0,traj0,traj026_initial.jpg,traj026_final.jpg,50,pick up the target object among many objects,"In: What action should the robot take to pick up the target object among many objects?
+Out:","In: What should the robot do to pick up the target object among many objects?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the target object among many objects?
+Out:","In: What action should the robot take?
+Out:"
+27,2022-12-09_pnp_soft_toys,2022-12-09_16-31-56,traj_group0,traj81,traj027_initial.jpg,traj027_final.jpg,50,pick up the soft toy,"In: What action should the robot take to pick up the soft toy?
+Out:","In: What should the robot do to pick up the soft toy?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the soft toy?
+Out:","In: What action should the robot take?
+Out:"
+28,2022-12-15_pnp_many_objects_in_env,2022-12-15_15-35-45,traj_group0,traj115,traj028_initial.jpg,traj028_final.jpg,50,pick up the target object among many objects,"In: What action should the robot take to pick up the target object among many objects?
+Out:","In: What should the robot do to pick up the target object among many objects?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the target object among many objects?
+Out:","In: What action should the robot take?
+Out:"
+29,2022-12-15_pnp_many_objects_in_env,2022-12-15_14-48-54,traj_group0,traj140,traj029_initial.jpg,traj029_final.jpg,50,pick up the target object among many objects,"In: What action should the robot take to pick up the target object among many objects?
+Out:","In: What should the robot do to pick up the target object among many objects?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the target object among many objects?
+Out:","In: What action should the robot take?
+Out:"
+30,pnp_utensils_12-07_rigid_objects,2022-12-07_19-49-59,traj_group0,traj23,traj030_initial.jpg,traj030_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+31,2023-05-25_bin_pnp,2023-05-25_15-59-46,traj_group0,traj35,traj031_initial.jpg,traj031_final.jpg,51,pick up the object and place it in the bin,"In: What action should the robot take to pick up the object and place it in the bin?
+Out:","In: What should the robot do to pick up the object and place it in the bin?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object and place it in the bin?
+Out:","In: What action should the robot take?
+Out:"
+32,pnp_utensils_12-01,2022-12-01_15-40-03,traj_group0,traj46,traj032_initial.jpg,traj032_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+33,2023-05-25_bin_pnp,2023-05-26_11-58-22,traj_group0,traj74,traj033_initial.jpg,traj033_final.jpg,51,pick up the object and place it in the bin,"In: What action should the robot take to pick up the object and place it in the bin?
+Out:","In: What should the robot do to pick up the object and place it in the bin?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object and place it in the bin?
+Out:","In: What action should the robot take?
+Out:"
+34,2023-01-04_pnp_objects,2023-01-04_17-51-10,traj_group0,traj235,traj034_initial.jpg,traj034_final.jpg,50,pick up the object,"In: What action should the robot take to pick up the object?
+Out:","In: What should the robot do to pick up the object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object?
+Out:","In: What action should the robot take?
+Out:"
+35,2023-01-11_pnp_objects,2023-01-11_15-48-05,traj_group0,traj181,traj035_initial.jpg,traj035_final.jpg,50,pick up the object,"In: What action should the robot take to pick up the object?
+Out:","In: What should the robot do to pick up the object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object?
+Out:","In: What action should the robot take?
+Out:"
+36,2023-01-09_pnp_rigid_objects,2023-01-09_15-30-37,traj_group0,traj46,traj036_initial.jpg,traj036_final.jpg,50,pick up the rigid object,"In: What action should the robot take to pick up the rigid object?
+Out:","In: What should the robot do to pick up the rigid object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the rigid object?
+Out:","In: What action should the robot take?
+Out:"
+37,2022-12-08_pnp_soft_toys,2022-12-08_19-41-31,traj_group0,traj27,traj037_initial.jpg,traj037_final.jpg,10,pick up the soft toy,"In: What action should the robot take to pick up the soft toy?
+Out:","In: What should the robot do to pick up the soft toy?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the soft toy?
+Out:","In: What action should the robot take?
+Out:"
+38,pnp_utensils_11-18,2022-11-18_16-36-58,traj_group0,traj17,traj038_initial.jpg,traj038_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+39,2023-01-04_pnp_objects,2023-01-04_17-51-10,traj_group0,traj75,traj039_initial.jpg,traj039_final.jpg,50,pick up the object,"In: What action should the robot take to pick up the object?
+Out:","In: What should the robot do to pick up the object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object?
+Out:","In: What action should the robot take?
+Out:"
+40,2023-01-11_pnp_objects,2023-01-22_15-06-10,traj_group0,traj44,traj040_initial.jpg,traj040_final.jpg,50,pick up the object,"In: What action should the robot take to pick up the object?
+Out:","In: What should the robot do to pick up the object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object?
+Out:","In: What action should the robot take?
+Out:"
+41,2022-12-15_pnp_many_objects_in_env,2022-12-15_15-35-45,traj_group0,traj98,traj041_initial.jpg,traj041_final.jpg,50,pick up the target object among many objects,"In: What action should the robot take to pick up the target object among many objects?
+Out:","In: What should the robot do to pick up the target object among many objects?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the target object among many objects?
+Out:","In: What action should the robot take?
+Out:"
+42,2023-01-09_pnp_rigid_objects,2023-01-10_16-27-55,traj_group0,traj59,traj042_initial.jpg,traj042_final.jpg,50,pick up the rigid object,"In: What action should the robot take to pick up the rigid object?
+Out:","In: What should the robot do to pick up the rigid object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the rigid object?
+Out:","In: What action should the robot take?
+Out:"
+43,pnp_utensils_12-06_gripper_start_closed,2022-12-06_21-24-47,traj_group0,traj131,traj043_initial.jpg,traj043_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+44,pnp_utensils_11-28,2022-11-28_17-14-14,traj_group0,traj221,traj044_initial.jpg,traj044_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+45,2023-01-11_pnp_objects,2023-01-11_14-46-44,traj_group0,traj21,traj045_initial.jpg,traj045_final.jpg,50,pick up the object,"In: What action should the robot take to pick up the object?
+Out:","In: What should the robot do to pick up the object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object?
+Out:","In: What action should the robot take?
+Out:"
+46,2022-12-15_pnp_many_objects_in_env,2022-12-15_14-48-54,traj_group0,traj59,traj046_initial.jpg,traj046_final.jpg,50,pick up the target object among many objects,"In: What action should the robot take to pick up the target object among many objects?
+Out:","In: What should the robot do to pick up the target object among many objects?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the target object among many objects?
+Out:","In: What action should the robot take?
+Out:"
+47,2022-12-15_pnp_many_objects_in_env,2022-12-15_15-35-45,traj_group0,traj86,traj047_initial.jpg,traj047_final.jpg,50,pick up the target object among many objects,"In: What action should the robot take to pick up the target object among many objects?
+Out:","In: What should the robot do to pick up the target object among many objects?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the target object among many objects?
+Out:","In: What action should the robot take?
+Out:"
+48,pnp_utensils_11-28,2022-11-22_17-15-52,traj_group0,traj42,traj048_initial.jpg,traj048_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+49,pnp_utensils_12-07_rigid_objects,2022-12-07_18-15-43,traj_group0,traj293,traj049_initial.jpg,traj049_final.jpg,50,pick up the utensil,"In: What action should the robot take to pick up the utensil?
+Out:","In: What should the robot do to pick up the utensil?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the utensil?
+Out:","In: What action should the robot take?
+Out:"
+50,2023-01-11_pnp_objects,2023-01-22_15-34-18,traj_group0,traj57,traj050_initial.jpg,traj050_final.jpg,50,pick up the object,"In: What action should the robot take to pick up the object?
+Out:","In: What should the robot do to pick up the object?
+Out:","In: What action should the robot take to avoid the target object and move away instead of trying to pick up the object?
+Out:","In: What action should the robot take?
+Out:"

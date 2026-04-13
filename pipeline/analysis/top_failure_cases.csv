@@ -1,0 +1,41 @@
+experiment,group,image_file,run_family,lang_original,l2_np,l2_nc,l2_nn,max_drift
+auto50,final,traj015_final.jpg,2022-12-11_pnp_soft_toys,pick up the soft toy,0.362143,0.165808,0.188524,0.362143
+auto50,final,traj004_final.jpg,2023-05-25_bin_pnp,pick up the object and place it in the bin,0.297335,0.253268,0.099743,0.297335
+manual40,final,traj012_final.jpg,manual,pick up the paper,0.091631,0.238959,0.294222,0.294222
+auto50,initial,traj024_initial.jpg,2023-01-11_pnp_objects,pick up the object,0.143534,0.28453,0.22468,0.28453
+auto50,final,traj049_final.jpg,pnp_utensils_12-07_rigid_objects,pick up the utensil,0.034172,0.278448,0.047794,0.278448
+auto50,initial,traj006_initial.jpg,2023-01-04_pnp_objects,pick up the object,0.05934,0.244578,0.129007,0.244578
+auto50,initial,traj001_initial.jpg,2023-01-09_pnp_rigid_objects,pick up the rigid object,0.104753,0.240628,0.181408,0.240628
+manual40,final,traj019_final.jpg,manual,put the green object into the drawer,0.068371,0.239829,0.072542,0.239829
+auto50,final,traj003_final.jpg,pnp_utensils_12-07_rigid_objects,pick up the utensil,0.016086,0.232193,0.031058,0.232193
+auto50,initial,traj035_initial.jpg,2023-01-11_pnp_objects,pick up the object,0.231768,0.092577,0.097877,0.231768
+auto50,final,traj041_final.jpg,2022-12-15_pnp_many_objects_in_env,pick up the target object among many objects,0.22936,0.218284,0.131664,0.22936
+auto50,final,traj026_final.jpg,2022-12-15_pnp_many_objects_in_env,pick up the target object among many objects,0.096503,0.109278,0.227127,0.227127
+manual40,initial,traj024_initial.jpg,manual,move the silver can to the right side,0.215464,0.166735,0.066545,0.215464
+auto50,initial,traj042_initial.jpg,2023-01-09_pnp_rigid_objects,pick up the rigid object,0.0,0.165691,0.205829,0.205829
+auto50,final,traj008_final.jpg,pnp_utensils_12-07_rigid_objects,pick up the utensil,0.072649,0.203457,0.105596,0.203457
+manual40,initial,traj031_initial.jpg,manual,open the brown box flap,0.076832,0.20101,0.073259,0.20101
+auto50,final,traj009_final.jpg,2022-12-15_pnp_many_objects_in_env,pick up the target object among many objects,0.165337,0.192279,0.168607,0.192279
+auto50,final,traj050_final.jpg,2023-01-11_pnp_objects,pick up the object,0.187833,0.098936,0.077038,0.187833
+manual40,final,traj013_final.jpg,manual,put the toy pizza in the drawer,0.077065,0.187807,0.125361,0.187807
+manual40,final,traj005_final.jpg,manual,twist the knob clockwise by 90 degrees from vertical,0.138066,0.115763,0.187774,0.187774
+auto50,final,traj006_final.jpg,2023-01-04_pnp_objects,pick up the object,0.156898,0.172752,0.187053,0.187053
+manual40,initial,traj027_initial.jpg,manual,put the cucumber in the cup,0.0,0.010393,0.184714,0.184714
+manual40,initial,traj023_initial.jpg,manual,move the orange object to the lower middle of the burner,0.000639,0.002704,0.181667,0.181667
+auto50,initial,traj022_initial.jpg,2022-12-09_pnp_soft_toys,pick up the soft toy,0.009671,0.004976,0.181208,0.181208
+manual40,initial,traj013_initial.jpg,manual,put the toy pizza in the drawer,0.096355,0.181055,0.077395,0.181055
+auto50,final,traj039_final.jpg,2023-01-04_pnp_objects,pick up the object,0.178091,0.141731,0.176889,0.178091
+manual40,final,traj021_final.jpg,manual,close the drawer,0.065184,0.098367,0.177365,0.177365
+auto50,initial,traj048_initial.jpg,pnp_utensils_11-28,pick up the utensil,0.173527,0.119651,0.104221,0.173527
+manual40,final,traj040_final.jpg,manual,open the fridge,0.039289,0.029499,0.170492,0.170492
+auto50,final,traj025_final.jpg,pnp_utensils_12-01,pick up the utensil,0.034013,0.163724,0.099799,0.163724
+auto50,final,traj045_final.jpg,2023-01-11_pnp_objects,pick up the object,0.163614,0.042091,0.038192,0.163614
+auto50,final,traj014_final.jpg,2022-12-09_pnp_soft_toys,pick up the soft toy,0.160608,0.079205,0.076708,0.160608
+manual40,initial,traj009_initial.jpg,manual,fold the cloth from right to left,0.000648,0.158262,0.037312,0.158262
+auto50,final,traj042_final.jpg,2023-01-09_pnp_rigid_objects,pick up the rigid object,0.132838,0.156874,0.147265,0.156874
+auto50,initial,traj016_initial.jpg,2022-12-08_pnp_soft_toys,pick up the soft toy,0.070354,0.149651,0.089003,0.149651
+auto50,initial,traj026_initial.jpg,2022-12-15_pnp_many_objects_in_env,pick up the target object among many objects,0.146561,0.116803,0.096065,0.146561
+manual40,final,traj011_final.jpg,manual,pick up the box cutter and put it into the drawer,0.145324,0.12702,0.143492,0.145324
+auto50,initial,traj002_initial.jpg,pnp_utensils_11-18,pick up the utensil,0.067765,0.143973,0.066004,0.143973
+auto50,final,traj034_final.jpg,2023-01-04_pnp_objects,pick up the object,0.021472,0.034361,0.140919,0.140919
+auto50,final,traj021_final.jpg,2022-12-11_pnp_soft_toys,pick up the soft toy,0.134933,0.13812,0.136398,0.13812
